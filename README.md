@@ -13,10 +13,10 @@
 <h1 align="center"><span style="color: #d9ed92;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mauricio Zárate R.</span></h1>
 <h3 align="center"><span style="color: #52b69a;">Engineer | Data Scientist | Machine Learning Practitioner</span></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mzarom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="40" width="40" style="color: #0077B5;"/></a>
-  <a href="https://www.kaggle.com/mzarom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>
-  <a href="https://github.com/ZarRomM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="github" height="40" width="40" style="color: white;"/></a>
-  <a href = "mailto:mauriciozarateromero@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="gmail" height="40" width="40" style="color: #D14836;"/></a>
+  <a href="https://www.linkedin.com/in/mzarom" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/mzarom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://github.com/ZarRomM" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" /></a>
+  <a href = "mailto:mauriciozarateromero@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="gmail" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -55,8 +55,7 @@
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-<br>
-<hr>
+<br><br> <hr>
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<span style="color: #b5e48c;"><i><b>Git Activeness</b></i></span>
 </p>
