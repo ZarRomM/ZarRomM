@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <h1 align="center"><span style="color: #d9ed92;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mauricio Zárate R.</span></h1>
 <h3 align="center"><span style="color: #52b69a;">Engineer | Data Scientist | Machine Learning Practitioner</span></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mzarom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mzarom" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
   <a href="https://www.kaggle.com/mzarom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://github.com/ZarRomM" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" /></a>
-  <a href = "mailto:mauriciozarateromero@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="30" width="40" /></a>
+  <a href = "mailto:mauriciozarateromero@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" /></a>
 </p>
 </p>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
