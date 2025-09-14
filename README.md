@@ -10,18 +10,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to rea ch me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://i.imgur.com/k91gQpX.png" height="200" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEDTgLkTPGBNw/profile-displaybackgroundimage-shrink_350_1400/B56Zk4IQ2dI8AY-/0/1757583315238?e=1760572800&v=beta&t=5ti72VPMglTOFy4PKJOpCSIfrjkGokFHyLli5gHOJv4" />
 </p>
 <br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Maozrm&color=brightgreen" alt="Profile views" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-34a0a4" />
   <img src="https://img.shields.io/badge/Specialty-Data%20Science-99d98c" />
@@ -46,7 +43,7 @@ Here are some ideas to get you started:
     with <b>Data Science</b> and always looking to turn raw data into strategic advantage.
   </em>
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <span style="color: #76c893;"><b><i>Thought : "Growth happens outside the comfort zone.”</i></b></span> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <span style="color: #76c893;"><b><i>Thought : "Growth happens outside the comfort zone.”</i></b></span> 
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
