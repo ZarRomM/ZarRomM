@@ -57,21 +57,96 @@ Here are some ideas to get you started:
 <span style="color: #184e77;">✔ Fun fact : *Believe it or not, my favorite hobby is programming, especially in ML and AI.* 😎</span><br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<span style="color: #d9ed92;">***My working tools...***</span>
-<p align="left">
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spyderide.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jupyter.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/windows.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scikitlearn.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg"></code>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" width="40" height="40" />
+          <br>
+          <sub align="center">Git</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" width="40" height="40" />
+          <br>
+          <sub align="center">Python</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://jupyter.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jupyter.svg" alt="Jupyter" width="40" height="40" />
+          <br>
+          <sub align="center">Jupyter</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" alt="MySQL" width="40" height="40" />
+          <br>
+          <sub align="center">MySQL</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.sqlite.org/index.html" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" alt="SQLite" width="40" height="40" />
+          <br>
+          <sub align="center">SQLite</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" alt="Linux" width="40" height="40" />
+          <br>
+          <sub align="center">Linux</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/windows.svg" alt="Windows" width="40" height="40" />
+          <br>
+          <sub align="center">Windows</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40" />
+          <br>
+          <sub align="center">VS Code</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://numpy.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" alt="Numpy" width="40" height="40" />
+          <br>
+          <sub align="center">Numpy</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pandas.pydata.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" alt="Pandas" width="40" height="40" />
+          <br>
+          <sub align="center">Pandas</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://scikit-learn.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40" />
+          <br>
+          <sub align="center">Scikit-learn</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.tensorflow.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" />
+          <br>
+          <sub align="center">TensorFlow</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 <hr>
 <p align="center">
