@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**ZarRomM/ZarRomM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to rea ch me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEDTgLkTPGBNw/profile-displaybackgroundimage-shrink_350_1400/B56Zk4IQ2dI8AY-/0/1757583315238?e=1760572800&v=beta&t=5ti72VPMglTOFy4PKJOpCSIfrjkGokFHyLli5gHOJv4" />
 </p>
@@ -29,10 +13,10 @@ Here are some ideas to get you started:
 <h1 align="center"><span style="color: #d9ed92;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mauricio Zárate R.</span></h1>
 <h3 align="center"><span style="color: #52b69a;">Engineer | Data Scientist | Machine Learning Practitioner</span></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mzarom" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/mzarom" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/mzarom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://github.com/ZarRomM" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" /></a>
-  <a href = "mailto:mauriciozarateromero@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" /></a>
+  <a href = "mailto:mauriciozarateromero@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="gmail" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -71,8 +55,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-<br>
-<hr>
+<br><br> <hr>
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<span style="color: #b5e48c;"><i><b>Git Activeness</b></i></span>
 </p>
