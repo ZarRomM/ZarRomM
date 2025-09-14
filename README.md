@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <em>
     <span style="color: #b5e48c;">Hello, I am Mauricio Zárate a <b>Data Science professional</b> from <b>Mexico</b>, dedicated to continuous growth and adaptation. <br>
     <span style="color: #99d98c;">a passionate self-learner</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Practitioner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data Science</b> and always looking to turn raw data into strategic advantage.
+    con <b>Data Science</b> and always looking to turn raw data into strategic advantage.
   </em>
   <br>
   <span style="color: #76c893;"><b><i>Thought : "Growth happens outside the comfort zone.”</i></b></span>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -77,14 +77,14 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<span style="color: #b5e48c;"><i><b>Git Activeness</b></i></span>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maozrm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="maozrm" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Maozrm&show_icons=true&locale=en&theme=chartreuse-dark" alt="maozrm" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZarRomM&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ZarRomM" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZarRomM&show_icons=true&locale=en&theme=chartreuse-dark" alt="ZarRomM" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<span style="color: #99d98c;">Git profile Trophies</span></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Maozrm&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZarRomM&theme=juicyfresh&no-bg=true" />
 
 -----
 Based on a template by [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
